@@ -1,0 +1,120 @@
+header {
+    background-color: #0191A4;
+    display: block;
+}
+.container {
+    padding: 0;
+    margin: 0;
+}
+a:hover {
+    text-decoration: none;
+}
+canvas {
+    margin: 0;
+    padding: 0;
+}
+footer {
+    text-align: center;
+}
+/* endumum */
+#logoKecank {
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#iconUser {
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#textUser {
+    font-size: 15px;
+    margin-top: 25px;
+    font-family: Calibri;
+    color: #ffffff;
+}
+#dropdownMenuButton{
+    background-color: transparent;
+    border: 0px;
+}
+#textLogo {
+    font-size: 50px;
+    margin-top: 15px;
+    color: #ffffff;
+    font-family: Franklin Gothic Medium;
+}
+
+/*--Menu--*/
+#menu {
+    border-right: 1px solid #e2e2e2;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#menu ul {
+    padding: 0;
+    margin-bottom: 50px;
+}
+#menu ul li {
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+#menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+    padding-right: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: left;
+    font-size: 1em;
+}
+#menu ul li:hover {
+    background-color: #0191A4;
+}
+#menu ul li a:hover {
+    color: white;
+}
+#menu ul hr {
+    margin: 0;
+    padding: 0;
+    background-color: #e2e2e2;
+}
+/*--EndMenu--*/
+
+#label-dashboard {
+    background-color: #38BFA3;
+    height: 150px;
+}
+#label-dashboard div h1 {
+    font-size: 2em;
+    color: #278789;
+    font-family: cambria;
+}
+#label-dashboard div h2 {
+    font-size: 4em;
+    color: #fff;
+    text-align: right;
+    font-family: "GeoSlab703 Md BT";
+}
+#nm_page div h1 {
+    font-weight: bold;
+    font-size: 2em;
+    color: #365796;
+}
+#login {
+    border: 1px solid rgb(207, 207, 207);
+    padding: 0;
+}
+#login-header {
+    background-color: #278789;
+}
+#login div h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family: "poppins";
+}

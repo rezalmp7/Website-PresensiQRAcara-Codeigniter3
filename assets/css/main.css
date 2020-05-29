@@ -1,0 +1,151 @@
+/* Font Family */
+@font-face
+{
+    font-family: 'brickshapers';
+    src: url("/font/brickshapers/BrickShapers.otf");
+}
+@font-face
+{
+    font-family: 'Afronik';
+    src: url('../font/afronik/Afronik.ttf');
+}
+@font-face
+{
+    font-family: 'limousine';
+    src: url('../font/limousine/Limousine.ttf');
+}
+/* /Font Family */
+header {
+    background-color: #DB1C20;
+    display: block;
+}
+.headerFun
+{
+    font-family: 'Afronik';
+    font-size: 50px;
+}
+.container {
+    padding: 0;
+    margin: 0;
+}
+a:hover {
+    text-decoration: none;
+}
+canvas {
+    margin: 0;
+    padding: 0;
+}
+footer {
+    text-align: center;
+}
+/* endumum */
+#logoKecank {
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#iconUser {
+    height: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#textUser {
+    font-size: 15px;
+    margin-top: 25px;
+    font-family: Calibri;
+    color: #ffffff;
+}
+#dropdownMenuButton{
+    background-color: transparent;
+    border: 0px;
+}
+#textLogo {
+    font-size: 50px;
+    margin-top: 15px;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium';
+}
+
+/*--- Menu ---*/
+#menu {
+    margin: 0;
+    padding: 0;
+}
+#menu ul {
+    padding: 0;
+    margin-bottom: 50px;
+}
+#menu ul li {
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 0;
+    border-bottom: 1px solid #e2e2e2;
+}
+#menu ul li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding-left: 20px;
+    padding-right: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    text-align: left;
+    font-size: 1em;
+}
+#menu ul li:hover {
+    background-color: #DB1C20;
+}
+#menu ul li a:hover {
+    color: white;
+}
+#menu ul hr {
+    margin: 0;
+    padding: 0;
+    background-color: #e2e2e2;
+}
+/*--- EndMenu ---*/
+
+#batas {
+    border-right: 1px solid #e2e2e2;
+}
+#label-dashboard {
+    background-color: #AE0001;
+    height: 150px;
+}
+#label-dashboard div h1 {
+    font-size: 3em;
+    color: #740001;
+    font-family: 'limousine';
+}
+#label-dashboard div h2 {
+    font-size: 4em;
+    color: #fff;
+    text-align: right;
+    font-family: "GeoSlab703 Md BT";
+}
+#nm_page div h1 {
+    font-weight: bold;
+    font-size: 2em;
+    color: #AE0001;
+}
+#login {
+    border: 1px solid rgb(207, 207, 207);
+    padding: 0;
+    background-color: #fff;
+}
+#login-header {
+    background-color: #EE282B;
+}
+#login div h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family: "poppins";
+}
+a {
+    color: #AE0001;
+}
+a:hover {
+    color: #740001;
+}
