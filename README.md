@@ -53,3 +53,7 @@ Aplikasi Scan QR ini dibuta untuk organisasi/kelompok/perusahaan yang ingin memb
 		- View Presensi
 	* Scan
 		- ScanQR
+
+# Cara Penggunaan
+Cara penggunaan
+Gunakan QR Generator di internet untuk membuat QRCode dengan isian nomor tiket yang sudah terdata, gunakan Menu Scan dan arahkan kamera ke QRCode yang sudah terbuat
